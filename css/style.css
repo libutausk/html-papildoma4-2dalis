@@ -1,0 +1,128 @@
+body {
+            font-family: 'Roboto';    
+            }
+            table {
+                width: 100%;
+                border-collapse: collapse;
+            }
+            th,
+            td,
+            tr {
+                border-collapse: collapse;
+                border: 1px solid;
+                padding: 10px;
+                text-align: left;
+            }
+            h1 {
+                text-align: center;
+                border-bottom: 1px solid grey;
+                padding-top: 40px;
+                padding-bottom: 40px;
+                margin-bottom: 80px;
+                text-transform: uppercase;
+            }
+            h1.h1last {
+                text-align: center;
+                text-transform: uppercase;
+            }
+            h3 {
+                text-align: center;
+                text-transform: uppercase;
+            }
+            nav {
+                text-align: left;
+            }
+            a {
+            padding-left: 10px;
+            text-decoration: none;
+            color: grey;
+            margin: 0;
+            font-size: 20px;
+            }
+            a:hover {
+            text-decoration: underline;
+            }
+            a:visited, a:active {
+            color: black;
+            }
+            .hr {
+                border-right: 1px solid grey;
+                padding-right: 15px;
+            }
+            .dots {
+                text-align: center;
+                font-weight: bold;
+                font-style: italic;
+            }
+            p.italic {
+                font-style: italic;
+            }
+            .bold {
+                font-weight: 600;
+            }
+            .strike {
+                text-decoration-line: line-through;
+            }
+            .underline {
+                text-decoration: underline;
+            }
+            footer {
+                text-align: center;
+                padding: 40px;
+            }
+            img.logotipas {
+                vertical-align: middle;
+                width: 120px;
+            }
+            .img1 {
+                width: 32%;
+                float: left;
+                justify-content: space-between;
+                padding: 5px;
+            }
+            row {
+                content: "";
+                clear: both;
+                display: table;
+            }
+            .headimg {
+                width: 100%;
+            }
+            .servicesimg {
+                width: 50%;
+                float: left;
+                padding-bottom: 50px;
+            }
+            .italicBIG {
+                text-align: center;
+                font-size: 30px;
+                font-style: italic;
+            }
+            .servicesP {
+                margin-top: 0px;
+                text-align: center;
+                float: right;
+                width: 50%;
+            }
+            form {
+                text-align: center;
+                display: inline-block;
+                margin-left: 25%;
+                margin-right: 25%;
+                width: 50%;
+            }
+            .laukelis {
+                width: 95%;
+            }
+            .textarea2 {
+                width: 95%;
+                height: 150px;
+            }
+            .button2 {
+                margin-left: 0px;
+            }
+            .logotekstas {
+                font-size: 24px; 
+                padding: 20px; 
+                font-weight: 600;"
+            }
